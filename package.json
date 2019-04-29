@@ -1,0 +1,24 @@
+{
+  "name": "react-querybuilder-searchbox",
+  "version": "0.0.0",
+  "description": "React Query Builder Searchbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemirk/react-querybuilder-searchbox.git"
+  },
+  "keywords": [
+    "query",
+    "builder",
+    "searchbox"
+  ],
+  "author": "Cihan Emir Kuzeyli <emir.kuzeyli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cemirk/react-querybuilder-searchbox/issues"
+  },
+  "homepage": "https://github.com/cemirk/react-querybuilder-searchbox#readme"
+}
